@@ -1,0 +1,5 @@
+NUM_EPOCHS = 300
+TRAIN_RATIO = 0.8
+VAL_RATIO = 0.8
+TARGET_STATION = "Florida (Puente Ruta 5)"
+TARGET_VARIABLE = "Caudal (Q) [m3/s]"

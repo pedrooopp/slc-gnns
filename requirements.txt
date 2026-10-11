@@ -1,0 +1,14 @@
+# Core dependencies (Python 3.12). For the full pinned environment used during
+# development see environment/requirements-freeze.txt
+numpy>=1.26,<2
+pandas>=2.2
+pyarrow>=20
+scikit-learn>=1.6
+matplotlib>=3.10
+seaborn>=0.13
+networkx>=3.4
+torch>=2.5
+torch-geometric>=2.6
+optuna>=4.3
+captum>=0.8
+jupyter
